@@ -8,7 +8,7 @@
 # Test 2
 
 # (Feature 2 Error handling.)
-
+# (Feature 3 User confirmation logic)
 # --------------------------------------------- #
                     # Failures
 # --------------------------------------------- #
